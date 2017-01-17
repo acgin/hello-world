@@ -1,4 +1,4 @@
 # hello-world
 first respository
 
-added first change
+I making my first chagge
